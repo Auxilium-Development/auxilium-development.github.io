@@ -42,7 +42,7 @@ Size: 9418
 MD5sum: be646046a32031c7c677aff288d907f8
 SHA1sum: 92e4c449515024ceed7e09e27d1e22b23450ddde
 SHA256sum: 384e6e8baecd05191d9fd5b91c343cd5667c80c6de5c4031b803f3dccd33871c
-Description: A Safemode toggle for your Control Center. Requires Silo
+Description: A Safemode toggle for your Control Center. Requires Silo.
 Name: EzSafemode
 Author: M4cs
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ezSafemode/
