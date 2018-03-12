@@ -14,3 +14,20 @@ Name: EzLocationModule
 Author: Chilaxan and M4cs
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ezLocation/
 
+Package: com.m4cs.control-center.ezrespring
+Version: 1.0
+Section: Control Center (Modules)
+Maintainer: M4cs
+Depends: firmware (<11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/ezRespring.deb
+Size: 9418
+MD5sum: 5bf866ded3a77294013bb57371134c9a
+SHA1sum: b68ca1f710af9291ba4f274df45abd4c96d8ad77
+SHA256sum: 91ac61ee03db9f6667a739206917d12adbaa745afa88dc401812abf0eaf87e58
+Description: A Respring button for your Control Center.
+Name: EzRespring
+Author: M4cs
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ezRespring/
+
+
