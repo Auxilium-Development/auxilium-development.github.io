@@ -1,0 +1,16 @@
+Package: com.ezccmodules.control-center.ezlocationmodule
+Version: 0.0.1
+Section: Control Center (Modules)
+Maintainer: Chilaxan and M4cs
+Depends: firmware (<11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/ezLocation.deb
+Size: 10284
+MD5sum: aa3c767c642bea67656aca2c15c8b8c5
+SHA1sum: 55752f187345a19233bdbcd73d362682db26670a
+SHA256sum: a84913faccf68193a165c719717a5e9b260880359cdb210b22472e386525d6b8
+Description: A toggle to turn Location Services on or off from your control center.
+Name: EzLocationModule
+Author: Chilaxan and M4cs
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ezLocation/
+
